@@ -1,0 +1,15 @@
+name: labfox-launcher
+version: '1.0'
+summary: OfflineIMAP
+description: Labfox Launcher
+confinement: devmode
+base: core22
+parts:
+  labfox-launcher:
+    plugin: python
+    python-version: python2
+    source: https://github.com/Labfox/Launcher.git
+
+apps:
+  labfox-launcher:
+    command: bin/offlineimap

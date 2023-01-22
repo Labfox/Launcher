@@ -1,0 +1,6 @@
+README.md
+setup.py
+Labfox_Launcher.egg-info/PKG-INFO
+Labfox_Launcher.egg-info/SOURCES.txt
+Labfox_Launcher.egg-info/dependency_links.txt
+Labfox_Launcher.egg-info/top_level.txt
